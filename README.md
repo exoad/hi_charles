@@ -1,7 +1,7 @@
 # hi_charles
 > Run, compile, and build source code and binary files at your own risk. The original authors are not responsible for any damages.
 
-Hi Charles! is a user generated and operated harming software
+Hi Charles! is a user generated and operated harming software (lmao what does this mean idk)
 
 EVERYTHIGN HERE IS MADE FOR EDUCATIONAL PURPOSES 
 
