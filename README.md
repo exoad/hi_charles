@@ -12,3 +12,7 @@ More description of this program and source is blocked.
 
 ### Wheres the next revision?
 > Soon!
+### How to make code readble
+First format the code using an online formatter.
+
+Debug the program in some expensive IDE, and figure out what each variable and method does (if there are even any lmao)
